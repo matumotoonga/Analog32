@@ -1,0 +1,25 @@
+{
+  "slug": "Analog32",
+  "name": "Analog32",
+  "version": "1.0.0",
+  "license": "MIT",
+  "brand": "Analog32",
+  "author": "matumotoonga",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Blank",
+      "name": "Blank",
+      "description": "",
+      "tags": [
+        "Blank"
+      ]
+    }
+  ]
+}
